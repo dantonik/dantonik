@@ -1,4 +1,4 @@
-<h1>Ola Amigos! 👋</h1>
+<h1 align="center" width="100%">Ola Amigos! 👋</h1>
 Nice to meet ya
 
 <p align="center" width="100%">
