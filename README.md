@@ -1,12 +1,12 @@
-
-<p align="center" width="100%">
 <h1>Ola Amigos! 👋</h1>
 <h3>Nice to meet ya</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact">
+<p align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact">
 
-<img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
+</p>
+
 <!--
 ✨
 
