@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-<p align="center" width="100%">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
+<img src="./assets/hello-light.gif#gh-dark-mode-only" align="right" height="220" width="210" />
+
+<h1>Ola Amigos!</h1>
+<h2>Me Ritam</h2>
+<h3>Nice to meet ya</h3>
 
 ![](https://komarev.com/ghpvc/?username=dantonik&color=blue)
 <!--
 ✨
+<p align="center" width="100%">
 Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green)
 - 🔭 I’m currently working on ...
