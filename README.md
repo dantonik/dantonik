@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" width="100%">
-![](https://komarev.com/ghpvc/?username=dantonik&color=blue)
+<img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
   </p>
 <!--
 ✨
