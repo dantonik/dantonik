@@ -2,6 +2,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green)
 
+<img src=https://komarev.com/ghpvc/?username = dantonik/>
+
 <!--
 ✨
 
