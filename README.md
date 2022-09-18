@@ -2,11 +2,11 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green)
 
-![](https://komarev.com/ghpvc/?username=dantonik&color=blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ✨
-
+![](https://komarev.com/ghpvc/?username=dantonik&color=blue)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
