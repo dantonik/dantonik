@@ -1,12 +1,14 @@
 <h1 align="center" width="100%">Ola Amigos! 👋</h1>
 <p align="center" width="100%">Nice to meet ya</p>
 
+<!--
 <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact">
 </p>
 <p align="center" width="100%">
   <img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
 </p>
+-->
 
 <!--
 ✨
