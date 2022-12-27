@@ -13,6 +13,8 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
 </div>
 
+
+
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green" title="MostUsedProgrammingLanguages" **alt="programminglanguages"/>
 </div>
