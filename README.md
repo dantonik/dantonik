@@ -16,11 +16,12 @@
 
 </br>
 
+<!--
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green" title="MostUsedProgrammingLanguages" **alt="programminglanguages"/>
 </div>
 
-<!--
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
 <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact">
