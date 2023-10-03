@@ -16,7 +16,7 @@
 
 </br>
 <img align="right" src="https://github.com/dantonik/dantonik/blob/main/images/coding.gif?raw=true" width=30%>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula&langs_count=20" />
 <!--
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green" title="MostUsedProgrammingLanguages" **alt="programminglanguages"/>
