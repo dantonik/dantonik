@@ -16,11 +16,11 @@
 
 </br>
 <img align="right" src="https://github.com/dantonik/dantonik/blob/main/images/coding.gif?raw=true" width=30%>
+[![dantonik's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dantonik&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile&theme=algolia&show_icons=true)](https://github.com/dantonik)
 <!--
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green" title="MostUsedProgrammingLanguages" **alt="programminglanguages"/>
 </div>
-
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
 <p align="center" width="100%">
