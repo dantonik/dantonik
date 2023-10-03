@@ -15,7 +15,7 @@
 </div>
 
 </br>
-<img align="right" src="https://github.com/dantonik/dantonik/Images/coding.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/dantonik/dantonik/blob/main/images/coding.gif?raw=true" width=30%>
 <!--
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green" title="MostUsedProgrammingLanguages" **alt="programminglanguages"/>
