@@ -24,8 +24,8 @@
 
 <p align="center" width="100%">
 	Some of the projects I have done at 42 Heilbronn:
-	- 
 </p>
+- https://github.com/dantonik/42-push-swap
 
 </p>
 <p align="center" width="100%">
