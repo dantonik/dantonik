@@ -18,6 +18,7 @@
   <ul>
     <li>
       <a href="https://github.com/dantonik/42-push-swap" target="_blank">push-swap</a>
+      <a href="https://github.com/dantonik/42-minishell" target="_blank">minishell</a>
     </li>
   </ul>
 </p>
