@@ -17,10 +17,6 @@
 </br>
 <img align="right" src="https://github.com/dantonik/dantonik/blob/main/images/coding.gif?raw=true" width=30%>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula&langs_count=10&layout=compact" />
-<!--
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green" title="MostUsedProgrammingLanguages" **alt="programminglanguages"/>
-</div>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
 <p align="center" width="100%">
@@ -29,7 +25,7 @@
 <p align="center" width="100%">
   <img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
 </p>
--->
+
 
 <!--
 ✨
