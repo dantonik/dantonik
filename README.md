@@ -22,6 +22,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact">
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula&langs_count=10&layout=compact" /> -->
 
+<p>
+	Some of the projects I have done at 42 Heilbronn:
+	- 
+</p>
+
 </p>
 <p align="center" width="100%">
   <img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
