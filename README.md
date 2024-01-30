@@ -13,4 +13,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantonik&show_icons=true&locale=en" alt="dantonik" /></p>
 
+<h3 align="left">Some of the projects I have done at 42 Heilbronn:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dantonik](https://github.com/dantonik/42-push-swap" target="blank">push-swap</a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dantonik&label=Profile%20views&color=0e75b6&style=flat" alt="dantonik" /> </p>
