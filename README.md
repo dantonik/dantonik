@@ -18,9 +18,10 @@
 <img align="right" src="https://github.com/dantonik/dantonik/blob/main/images/coding.gif?raw=true" width=30%>
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula&langs_count=10&layout=compact" /> -->
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
 <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact">
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula&langs_count=10&layout=compact" /> -->
+
 </p>
 <p align="center" width="100%">
   <img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
