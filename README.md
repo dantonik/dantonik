@@ -16,10 +16,8 @@
 <h3 align="left">Some of the projects I have done at 42 Heilbronn:</h3>
 <p align="left">
   <ul>
-    <li>
-      <a href="https://github.com/dantonik/42-push-swap" target="_blank">push-swap</a>
-      <a href="https://github.com/dantonik/42-minishell" target="_blank">minishell</a>
-    </li>
+    <li> <a href="https://github.com/dantonik/42-push-swap" target="_blank">push-swap</a> </li>
+    <li> <a href="https://github.com/dantonik/42-minishell" target="_blank">minishell</a> </li>
   </ul>
 </p>
 
