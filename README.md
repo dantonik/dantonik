@@ -17,6 +17,7 @@
 <p align="left">
   <ul>
     <li> <a href="https://github.com/dantonik/42-push-swap" target="_blank">push-swap</a> </li>
+    <li> <a href="https://github.com/dantonik/42-philosophers" target="_blank">minishell</a> </li>
     <li> <a href="https://github.com/dantonik/42-minishell" target="_blank">minishell</a> </li>
   </ul>
 </p>
