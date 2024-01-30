@@ -19,6 +19,7 @@
     <li> <a href="https://github.com/dantonik/42-push-swap" target="_blank">push-swap</a> </li>
     <li> <a href="https://github.com/dantonik/42-philosophers" target="_blank">philosophers</a> </li>
     <li> <a href="https://github.com/dantonik/42-minishell" target="_blank">minishell</a> </li>
+    <li> <a href="https://github.com/dantonik/42-irc" target="_blank">irc server</a> </li>
     <li> <a href="https://github.com/dantonik/mini_raytracer" target="_blank">raytracer</a> </li>
   </ul>
 </p>
