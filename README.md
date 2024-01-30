@@ -1,52 +1,17 @@
-<h1 align="center" width="100%">Ola Amigos! 👋</h1>
-</br>
-<div align="center">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>
-	</br>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="80" height="80"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="60" height="60"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="60" height="60"/>
-</div>
+<h1 align="center">Hi 👋, I'm Dennis</h1>
+<h3 align="center">Software / Data Engineer</h3>
 
-</br>
-<img align="right" src="https://github.com/dantonik/dantonik/blob/main/images/coding.gif?raw=true" width=30%>
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula&langs_count=10&layout=compact" /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dantonik&label=Profile%20views&color=0e75b6&style=flat" alt="dantonik" /> </p>
 
-<p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact">
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dantonik&theme=dracula&langs_count=10&layout=compact" /> -->
-
-<p align="center" width="100%">
-	Some of the projects I have done at 42 Heilbronn:
-</p>
-- https://github.com/dantonik/42-push-swap
-
-</p>
-<p align="center" width="100%">
-  <img src="https://komarev.com/ghpvc/?username=dantonik&color=blue">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dantonik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dantonik" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!--
-✨
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantonik&show_icons=true&locale=en&layout=compact" alt="dantonik" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantonik&show_icons=true&locale=en" alt="dantonik" /></p>
 
-<p align="center" width="100%">
-Here are some ideas to get you started:
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonik&theme=blue-green)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
