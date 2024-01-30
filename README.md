@@ -15,7 +15,11 @@
 
 <h3 align="left">Some of the projects I have done at 42 Heilbronn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dantonik](https://github.com/dantonik/42-push-swap" target="blank">push-swap</a>
+  <ul>
+    <li>
+      <a href="https://github.com/dantonik/42-push-swap" target="_blank">push-swap</a>
+    </li>
+  </ul>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dantonik&label=Profile%20views&color=0e75b6&style=flat" alt="dantonik" /> </p>
